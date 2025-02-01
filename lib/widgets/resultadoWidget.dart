@@ -14,7 +14,7 @@ class ResultadoWidget extends StatelessWidget {
     return Visibility(
         visible: mostrarsoma,
         child: Container(
-          margin: EdgeInsets.symmetric(vertical: 2, horizontal: 100),
+          margin: EdgeInsets.symmetric(vertical: 2, horizontal: 10),
           decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(16),
               gradient: LinearGradient(colors: [

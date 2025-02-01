@@ -48,4 +48,9 @@ class AcoesMatematicas extends StatelessWidget {
               color: Colors.white,
             )));
   }
+
+  // como resolver do modo antigo planejado
+//   void _onpressed() {
+//     method();
+//   }
 }
